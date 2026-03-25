@@ -11,9 +11,9 @@ Somewhere in between, I taught machines to see.
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks & Tools**
+**Languages & Frameworks & Tools**  
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,js,html,css,django,flask,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,js,html,css,django,flask,postgres,mysql,mongodb,docker,git,azure,vscode,pycharm,visualstudio)](https://skillicons.dev)
 
 **Operational Research**
 
@@ -32,20 +32,22 @@ Somewhere in between, I taught machines to see.
 
 ---
 
-## 🚀 Featured Projects
+## 🔨 Things I've Built
 
 ### 📍 findPostcode — UK Postcode Geolocation API
 > REST API that returns geolocation data for any UK postcode.
 > Clean, fast, and built for real-world use.
 
-`Python` `Django` `Django REST Framework` `Docker`
+`Python` `Django` `Django REST Framework` `Docker`  
+[Dig in →](https://github.com/DiyanIvanov/findPostcode)
 
 ---
 
 ### 🏢 facilityForge - Facility Management Web App
 > Full-stack web application for managing facilities, assets, and maintenance workflows.
 
-`Django` `Python` `HTML` `CSS` `JavaScript`
+`Django` `Python` `HTML` `CSS` `JavaScript`  
+[Dig in →](https://github.com/DiyanIvanov/facilityForge)
 
 ---
 
@@ -53,7 +55,8 @@ Somewhere in between, I taught machines to see.
 > Solving the Capacitated Vehicle Routing Problem using a custom Genetic Algorithm implementation.
 > Minimises total route distance across a fleet of vehicles under capacity constraints.
 
-`Python` `OR` `Metaheuristics` `Optimisation`
+`Python` `OR` `Metaheuristics` `Optimisation`  
+[Dig in →](https://github.com/DiyanIvanov/Operational-Research)
 
 ---
 
