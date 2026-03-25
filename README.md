@@ -34,15 +34,15 @@ Somewhere in between, I taught machines to see.
 
 ## 🚀 Featured Projects
 
-### 📍 UK Postcode Geolocation API
+### 📍 findPostcode — UK Postcode Geolocation API
 > REST API that returns geolocation data for any UK postcode.
 > Clean, fast, and built for real-world use.
 
-`Python` `Django` `REST API` `Docker`
+`Python` `Django` `Django REST Framework` `Docker`
 
 ---
 
-### 🏢 Facility Management Web App
+### 🏢 facilityForge - Facility Management Web App
 > Full-stack web application for managing facilities, assets, and maintenance workflows.
 
 `Django` `Python` `HTML` `CSS` `JavaScript`
